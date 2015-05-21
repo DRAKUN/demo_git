@@ -2,4 +2,6 @@ demo_git
 ====================================
 
 
-Un Demo de GIT qui se passe très bien 
+Un Demo de GIT qui se passe trÃ¨s bien 
+
+Et Modification depuis GITHUB
